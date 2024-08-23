@@ -1,9 +1,9 @@
 ---
-title: "Advancing IoT System Dependability: A Deep Dive into Management and Operation Plane Separation"
+title: "Policy Enforcement for IoT: Complexities and Emerging Solutions"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-iot-dependability
-excerpt: 'Luoyao Hao, Shuo Zhang, Henning Schulzrinne'
+permalink: /publication/2024-iot-policy-enforcement
+excerpt: 'Shuo Zhang, Luoyao Hao, Henning Schulzrinne'
 date: 2024-12-31
 venue: 'Coming soon'
 paperurl: # ''
