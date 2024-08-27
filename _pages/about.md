@@ -11,9 +11,8 @@ I am currently a second-year Master's student in Computer Science at Columbia Un
 
 You can find my CV here: [Shuo Zhang's CV](../assets/Shuo_Zhang_CV.pdf).
 
-Research Interest
+Research Interests
 ------
-## Research Interests
 
 My research is centered on the intersection of databases and computer systems, with a commitment to enhancing the efficiency and accessibility of large-scale data processing. My goals are twofold:
 
