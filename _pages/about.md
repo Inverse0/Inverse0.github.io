@@ -13,10 +13,13 @@ You can find my CV here: [Shuo Zhang's CV](../assets/Shuo_Zhang_CV.pdf).
 
 Research Interest
 ------
+## Research Interests
+
 My research is centered on the intersection of databases and computer systems, with a commitment to enhancing the efficiency and accessibility of large-scale data processing. My goals are twofold:
 
-1. Improving Access to High-Quality Data: I am exploring how machine learning models, particularly Large Language Models (LLMs), can be leveraged to streamline data management processes. This work aims to simplify the complexities involved in handling vast datasets, making high-quality data more accessible and usable for diverse applications.
+1. **Improving Access to High-Quality Data:** I am exploring how machine learning models, particularly Large Language Models (LLMs), can be leveraged to streamline data management processes. This work aims to simplify the complexities involved in handling vast datasets, making high-quality data more accessible and usable for diverse applications.
 
-1. Enhancing Data Processing Capabilities on Commercial Hardware: I am dedicated to accelerating large-scale data processing tasks by harnessing the capabilities of advanced hardware, such as GPUs. My research focuses on optimizing existing technologies to better utilize hardware efficiencies, thereby speeding up computations and enabling more robust data analysis in real-time environments.
+2. **Enhancing Data Processing Capabilities on Commercial Hardware:** I am dedicated to accelerating large-scale data processing tasks by harnessing the capabilities of advanced hardware, such as GPUs. My research focuses on optimizing existing technologies to better utilize hardware efficiencies, thereby speeding up computations and enabling more robust data analysis in real-time environments.
 
 Through these endeavors, I seek to contribute innovative solutions that address critical challenges in data science and systems research.
+
