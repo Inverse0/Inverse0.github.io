@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year Master's student in Computer Science at Columbia University. My research interests include database systems, data science, and networking systems. During my master's study, I am very fortunate to conduct research under the guidance of [Prof. Henning Schulzrinne](https://www.cs.columbia.edu/~hgs/) and [Prof. Eugene Wu](http://www.eugenewu.net/). I earned my Bachelor's degree in Computer Science and Economics at Boston University, under the mentorship of [Prof. Manos Athanassoulis](https://cs-people.bu.edu/mathan/).
+I am currently a final-year Master's student in Computer Science at Columbia University. My research primarily focuses on databases, data science, and computer networks. During my master's study, I am very fortunate to conduct research under the guidance of [Prof. Henning Schulzrinne](https://www.cs.columbia.edu/~hgs/) and [Prof. Eugene Wu](http://www.eugenewu.net/). I earned my Bachelor's degree in Computer Science and Economics at Boston University, under the mentorship of [Prof. Manos Athanassoulis](https://cs-people.bu.edu/mathan/).
 
 You can find my CV here: [Shuo Zhang's CV](../assets/Shuo_Zhang_CV.pdf).
 
 Research Interests
 ------
 
-My research is centered on the intersection of databases and computer systems, with a commitment to enhancing the efficiency and accessibility of large-scale data processing. My goals are twofold:
+My research interest is centered on the intersection of databases and computer systems, with a commitment to enhancing the efficiency and accessibility of large-scale data processing. My goals are twofold:
 
 1. **Improving Access to High-Quality Data:** I am exploring how machine learning models, particularly Large Language Models (LLMs), can be leveraged to streamline data management processes. This work aims to simplify the complexities involved in handling vast datasets, making high-quality data more accessible and usable for diverse applications.
 
