@@ -17,7 +17,7 @@ My research focuses on the intersection of databases and systems, aiming to impr
 
 1. **Improving Data Access:** I explore how machine learning tools, such as Large Language Models (LLMs) can streamline data management processes to make high-quality data more accessible for diverse applications.
 
-2. **Boosting Data Processing Speed:** I work on enhancing data processing tasks, like matrix multiplication, by leveraging hardware capabilities to optimize technologies for faster computations and robust real-time data analysis.
+2. **Boosting Data Processing Speed:** I work on enhancing data processing tasks, like query processing, by leveraging hardware capabilities to optimize technologies for faster computations and robust real-time data analysis.
 
 Through these endeavors, I seek to contribute innovative solutions that address critical challenges in data science and systems research.
 
