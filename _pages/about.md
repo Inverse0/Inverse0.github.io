@@ -13,11 +13,13 @@ I am currently a final-year Master's student in Computer Science at Columbia Uni
 Research Interests
 ------
 
-My research focuses on the intersection of databases and systems, aiming to improve the efficiency and accessibility of large-scale data processing. My objectives include:
+My research focuses on the intersection of database management and Human-Data Interaction (HDI), aiming to enhance the efficiency and reliability of data insights driven by large-scale, complex datasets. My objectives include:
 
-1. **Improving Data Access:** I explore how machine learning tools, such as Large Language Models (LLMs) can streamline data management processes to make high-quality data more accessible for diverse applications.
+1. **Data processing:** Designing fast and reliable systems capable of processing large and intricate datasets.
 
-2. **Boosting Data Processing Speed:** I work on accelerating data processing tasks, like query processing, by leveraging hardware capabilities and refining algorithms. This work aims to accelerate computations and enable robust, real-time data analysis.
+2. **Data interpretation:** Integrating Generative AI (GenAI) and machine learning techniques with database systems to provide insightful, understandable interpretations of data.
 
-Through these endeavors, I seek to contribute innovative solutions that address critical challenges in data science and systems research.
+3. **Trustworthy data system:** Enhancing the trustworthiness and reliability of data management and HDI systems through traceable and transparent data transformations.
+
+Through these endeavors, I seek to contribute innovative solutions that address critical challenges in data management and HDI research.
 
