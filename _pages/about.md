@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year Master's student in Computer Science at Columbia University. My research primarily focuses on databases, data science, and computer networks. During my master's study, I am very fortunate to conduct research under the guidance of [Prof. Henning Schulzrinne](https://www.cs.columbia.edu/~hgs/) and [Prof. Eugene Wu](http://www.eugenewu.net/). I earned my Bachelor's degree in Computer Science and Economics at Boston University, under the mentorship of [Prof. Manos Athanassoulis](https://cs-people.bu.edu/mathan/).
+I am currently a final-year Master's student in Computer Science at Columbia University. My research primarily focuses on databases, data science, and computer networks. During my master's study, I am very fortunate to conduct research under the guidance of [Prof. Kenneth Ross](https://www.cs.columbia.edu/~kar/), [Prof. Henning Schulzrinne](https://www.cs.columbia.edu/~hgs/) and [Prof. Eugene Wu](http://www.eugenewu.net/). I earned my Bachelor's degree in Computer Science and Economics at Boston University, under the mentorship of [Prof. Manos Athanassoulis](https://cs-people.bu.edu/mathan/).
 
 
 Research Interests
