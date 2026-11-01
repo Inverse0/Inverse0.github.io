@@ -38,6 +38,8 @@ layout: default
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'publications' and page.category == 'manuscripts' %}
           <p><i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
+        {% elsif page.collection == 'publications' and page.category == 'preprints' %}
+          <p><i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
@@ -58,7 +60,7 @@ layout: default
         {% elsif page.citation %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
         {% elsif page.paperurl %}
-          <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download Paper</a></p>
+          <p style="font-size: smaller"><a href="{{ page.paperurl }}">{{ page.paperlabel | default: "Download Paper" }}</a></p>
         {% elsif page.slidesurl %}
           <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% endif %}

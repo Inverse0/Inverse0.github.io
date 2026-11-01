@@ -42,6 +42,8 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.category == 'manuscripts' %}
           <p><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+        {% elsif post.collection == 'publications' and post.category == 'preprints' %}
+          <p><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
@@ -63,7 +65,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
+      <p><a href="{{ post.paperurl }}">{{ post.paperlabel | default: "Download Paper" }}</a></p>
     {% elsif post.slidesurl %}
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
